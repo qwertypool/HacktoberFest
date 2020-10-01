@@ -5,7 +5,8 @@ This is a Beginner Friendly Repo for Open Source Contribution,edit it and make a
 ## What to Do?
 
 Fork it first, Clone the Repository , make a program in your favourite language which prints "HTML IS A PROGRAMMING LANGUAGE" , once you have done this push it and make a pull request .
-HTML IS ❤️ HTML IS LIFE.
+
+### HTML IS ❤️ HTML IS LIFE.
 
 ## Contributors:
 
